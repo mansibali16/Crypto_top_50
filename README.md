@@ -2,10 +2,9 @@
 An analysis of the top 50 cryptocurrencies by market capitalization, fetched from a live API. The key metrics analyzed include current prices, market capitalization, trading volume, and percentage changes over the last 24 hours.
 
 
+# Google sheets link : https://docs.google.com/spreadsheets/d/1sscdiZuxPXYgda4j-NKqaeWocEHnBRFBS9TtGCtpaAI/edit?usp=sharing
 
 # Data Overview
-
-# Google sheets link : https://docs.google.com/spreadsheets/d/1sscdiZuxPXYgda4j-NKqaeWocEHnBRFBS9TtGCtpaAI/edit?usp=sharing
 
 The data includes the following key fields:
 • Cryptocurrency Name
@@ -40,12 +39,14 @@ regulatory changes, and market sentiment.
 
 
 # 4. Conclusion
+
 The cryptocurrency market remains highly volatile, with significant price fluctuations occurring
 within short time frames. Major assets like Bitcoin and Ethereum continue to lead the industry,
 while smaller cryptocurrencies experience rapid price swings. Continuous monitoring of these
 trends can provide valuable insights for traders and investors.
 
 # 5. Future Considerations
+
 • Expanding the analysis to include historical trends for better forecasting.
 • Incorporating additional indicators like Relative Strength Index (RSI) or Moving Averages
 for deeper insights.
